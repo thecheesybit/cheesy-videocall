@@ -1,5 +1,5 @@
 # Realtime Chat Application
-## Site live [here](https://cheesy-vc.web.app/)
+## Site is live [here](https://cheesy-vc.web.app/)
 
 ![image](https://user-images.githubusercontent.com/55230372/119185549-71acac80-ba94-11eb-8b0f-8569e1976cbc.png)
 
