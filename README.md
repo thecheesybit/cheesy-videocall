@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-![Video Chat]![image](https://user-images.githubusercontent.com/55230372/119185549-71acac80-ba94-11eb-8b0f-8569e1976cbc.png)
+![image](https://user-images.githubusercontent.com/55230372/119185549-71acac80-ba94-11eb-8b0f-8569e1976cbc.png)
 
 
 ## Introduction
