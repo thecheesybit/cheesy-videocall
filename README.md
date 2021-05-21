@@ -1,6 +1,7 @@
 # Realtime Chat Application
 
-![Video Chat](https://i.ibb.co/7WZRLD1/122.jpg)
+![Video Chat]![image](https://user-images.githubusercontent.com/55230372/119185549-71acac80-ba94-11eb-8b0f-8569e1976cbc.png)
+
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
